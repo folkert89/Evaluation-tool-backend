@@ -72,9 +72,8 @@
             "evaluation": "green",
             "date": "2016-07-29"
             }, {
-            "evaluation": "red",
+            "evaluation": "green",
             "date": "2016-07-30",
-            "remark": "He is not getting it"
           }]},
           {
           "name": "brad immers",
@@ -87,7 +86,7 @@
             "date": "2016-07-26",
             "remark": "He didnt get it"
           }, {
-            "evaluation": "orange",
+            "evaluation": "green",
             "date": "2016-07-27"
             }, {
             "evaluation": "red",
