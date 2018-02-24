@@ -1,0 +1,133 @@
+[{
+    "startDate": "2017-07-25",
+    "endDate": "2017-09-25",
+    "batchNumber": "1",
+    "students": [{
+          "name": "bram derksen",
+          "photo": "https://irp-cdn.multiscreensite.com/c3c96d3d/dms3rep/multi/tablet/pirate+with+sword-2400px.png",
+          "evaluations": [{
+            "evaluation": "orange",
+            "date": "2016-07-25"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-26",
+            "remark": "He didnt get it"
+          }, {
+            "evaluation": "orange",
+            "date": "2016-07-27"
+            }, {
+            "evaluation": "green",
+            "date": "2016-07-28"
+          },{
+            "evaluation": "green",
+            "date": "2016-07-29"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-30",
+            "remark": "He is not getting it"
+          }]},
+          {
+          "name": "dante christiaan",
+          "photo": "http://cd.sseu.re/mixed-seafood-paella.jpeg",
+          "evaluations": [{
+            "evaluation": "green",
+            "date": "2016-07-25"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-26",
+            "remark": "He didnt get it"
+          }, {
+            "evaluation": "orange",
+            "date": "2016-07-27"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-28",
+            "remark": "He is slow"
+          },{
+            "evaluation": "green",
+            "date": "2016-07-29"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-30",
+            "remark": "He is not getting it"
+          }]},
+          {
+          "name": "erik verhagen",
+          "photo": "http://thedockyard.co.uk/wp-content/uploads/2017/01/CHDT-Pirate-Bilbo.png",
+          "evaluations": [{
+            "evaluation": "green",
+            "date": "2016-07-25"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-26",
+            "remark": "He didnt get it"
+          }, {
+            "evaluation": "orange",
+            "date": "2016-07-27"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-28",
+            "remark": "He is slow"
+          },{
+            "evaluation": "green",
+            "date": "2016-07-29"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-30",
+            "remark": "He is not getting it"
+          }]},
+          {
+          "name": "brad immers",
+          "photo": "http://cd.sseu.re/mixed-seafood-paella.jpeg",
+          "evaluations": [{
+            "evaluation": "green",
+            "date": "2016-07-25"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-26",
+            "remark": "He didnt get it"
+          }, {
+            "evaluation": "orange",
+            "date": "2016-07-27"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-28",
+            "remark": "He is slow"
+          },{
+            "evaluation": "green",
+            "date": "2016-07-29"
+            }, {
+            "evaluation": "red",
+            "date": "2016-07-30",
+            "remark": "He is not getting it"
+          }]}
+    ]
+  },{
+      "startDate": "2017-09-25",
+      "endDate": "2017-11-25",
+      "batchNumber": "2",
+      "students": [{
+            "name": "bianca van het veer",
+            "photo": "http://cd.sseu.re/mixed-seafood-paella.jpeg",
+            "evaluations": [{
+              "evaluation": "green",
+              "date": "2016-09-25"
+              }, {
+              "evaluation": "red",
+              "date": "2016-09-26",
+              "remark": "He is not getting it"
+              }]},
+            {
+            "name": "roos dingen",
+            "photo": "http://cd.sseu.re/mixed-seafood-paella.jpeg",
+            "evaluations": [{
+              "evaluation": "green",
+              "date": "2016-09-25"
+              }, {
+              "evaluation": "red",
+              "date": "2016-09-26",
+              "remark": "He is not getting it"
+            }]}
+      ]
+    }
+]

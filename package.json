@@ -1,17 +1,17 @@
 {
-  "name": "memory-game-api",
+  "name": "evaluation-api",
   "version": "1.0.0",
-  "description": "API for memory games",
+  "description": "API for evaluation tool",
   "main": "index.js",
   "license": "MIT",
   "engines": {
-    "node": "8.5.0",
-    "yarn": "1.2.1",
-    "npm": "5.4.2"
+    "node": "8.5.0"
   },
   "scripts": {
     "start": "node .",
-    "dev": "nodemon --inspect ."
+    "dev": "nodemon --inspect .",
+    "teachers": "node db/seed-teachers.js",
+    "classes": "node db/seed-classes.js"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
@@ -19,6 +19,7 @@
     "express": "^4.16.2",
     "jsonwebtoken": "^8.1.0",
     "mongoose": "^4.12.4",
+    "mongoose-seed": "^0.4.1",
     "passport": "^0.4.0",
     "passport-jwt": "^3.0.1",
     "passport-local": "^1.0.0",
@@ -27,6 +28,7 @@
     "socketio-jwt-auth": "^0.0.6"
   },
   "devDependencies": {
-    "nodemon": "^1.12.1"
+    "nodemon": "^1.12.1",
+    "superagent": "^3.8.2"
   }
 }
